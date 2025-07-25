@@ -1,4 +1,4 @@
-# 👋 Welcome to Site Sculptors
+#  Welcome to Site Sculptors
 
 ## 📊 Repository Stats
 - 🔓 Public Repositories: 4
